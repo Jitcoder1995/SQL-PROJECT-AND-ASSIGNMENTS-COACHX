@@ -1,5 +1,3 @@
--- UNIVERSITY DATABASE MANAGEMENT SYSTEM - MYSQL 8.0+
--- Run in MySQL Workbench. All sample data is fictional.
 CREATE DATABASE IF NOT EXISTS Sunrise_University;
 USE Sunrise_University;
 
